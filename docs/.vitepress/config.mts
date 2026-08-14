@@ -59,7 +59,6 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
-    logo: "/logo.svg",
     nav: [
       { text: "首页", link: "/" },
       { text: "教程", link: "/guide/01-intro" },
